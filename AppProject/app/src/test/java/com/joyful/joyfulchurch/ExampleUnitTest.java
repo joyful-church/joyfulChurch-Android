@@ -1,4 +1,4 @@
-package com.joyful.joyfulchurch;
+package com.joyful.joyfulChurch;
 
 import org.junit.Test;
 

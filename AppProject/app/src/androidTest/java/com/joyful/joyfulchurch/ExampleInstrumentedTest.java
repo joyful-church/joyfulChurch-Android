@@ -1,4 +1,4 @@
-package com.joyful.joyfulchurch;
+package com.joyful.joyfulChurch;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.joyful.joyfulchurch", appContext.getPackageName());
+        assertEquals("com.joyful.joyfulChurch", appContext.getPackageName());
     }
 }
